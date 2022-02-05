@@ -21,5 +21,6 @@ public class HPBar : MonoBehaviour
             yield return null;
         }
         health.transform.localScale = new Vector3(newHp, 1f);
+        
     }
 }

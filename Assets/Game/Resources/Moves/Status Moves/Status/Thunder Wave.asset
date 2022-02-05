@@ -18,7 +18,7 @@ MonoBehaviour:
   power: 0
   accuracy: 85
   pp: 15
-  moveCategory: 0
+  moveCategory: 2
   effects:
     boosts: []
     status: 4
